@@ -73,7 +73,7 @@ public class LoginUI extends JFrame {
 		JButton btn1 = new JButton("회원가입");
 		btn1.setBounds(113, 136, 121, 36);
 		contentPane.add(btn1);
-		
+		//xpxjpafsd
 		JButton btn2 = new JButton("로그인");
 		btn2.addMouseListener(new MouseAdapter() {
 			@Override
